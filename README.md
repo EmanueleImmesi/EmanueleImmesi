@@ -3,8 +3,8 @@
 <p>
 <img src="img_n_gifs/MioDottore_logo.png" width=280px height=280px align='right' style="padding-left:30px;">
 My accademic background is in Molecular Biology🧬, but now I’m an aspiring <b>Data Scientist 👨🏻‍💻</b>. Currently working as Business Intelligence Specialist for <a href="https://www.docplanner.com/">DocPlanner</a> (Italian Department).<br><br>
-This is an account for business scope, but you can find me on my social and on my personal Github account. <a hrfe="https://github.com/TheHextech">personal GitHub account</a>.</p>
-
+This is an account for business scope, but you can find me on my social and on my personal Github account. <a hrfe="https://github.com/TheHextech">personal GitHub account</a>.
+</p>
 
 ## Find me:
 [<img align='left' alt='twitter' width='50px' src="./img_n_gifs/twitter_icon.png" style="padding-right:5px;" />][twitter]

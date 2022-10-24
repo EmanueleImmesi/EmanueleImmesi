@@ -7,7 +7,6 @@ This is a business account, but you can find me on my social and on my personal 
 
 
 ## Find me:
-
 [<img align='left' alt='twitter' width='50px' src="./img_n_gifs/twitter_icon.png" style="padding-right:5px;" />][twitter]
 [<img align='left' alt='linkedin' width='50px' src="./img_n_gifs/linkedin_icon.png" style="padding-right:5px;" />][linkedin]
 [<img align='left' alt='kaggle' width='80px' src="./img_n_gifs/kaggle_icon.png"/>][kaggle]

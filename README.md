@@ -3,7 +3,7 @@
 <p>
 <img src="img_n_gifs/MioDottore_logo.png" width=250px height=250px align='right' style="padding-left:30px;">
 My accademic background is in Molecular Biology🧬, but now I’m an aspiring <b>Data Scientist 👨🏻‍💻</b>. Currently working as Business Intelligence Specialist for <a href="https://www.docplanner.com/">DocPlanner</a> (Italian Department).<br><br>
-This is an account for business scope, but you can find me on my social and on my personal Github account.</p><br><br>
+This is an account for business scope, but you can find me on my social and on <a href="https://github.com/TheHextech">my personal Github account.</p><br><br>
 
 ---
 
